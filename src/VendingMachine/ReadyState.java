@@ -1,4 +1,5 @@
 package VendingMachine;
 
-public class ReadyState {
+public class ReadyState extends VendingMachineState {
+
 }
