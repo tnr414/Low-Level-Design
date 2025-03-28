@@ -189,5 +189,3 @@ Computer{CPU='AMD EPYC', RAM='64GB', Storage='4TB NVMe SSD', GraphicsCard='null'
 ## **Conclusion**
 The **Builder Pattern** is perfect for building objects with **many optional parameters** in a clean and maintainable way. 🚀
 
-Would you like to see another example, such as **meal ordering system** or **report generator**? 😃
-
